@@ -4,6 +4,7 @@ import com.entity.User;
 
 public class Test2 {
     public static void main(String[] args) {
+        System.out.println("nohello");
         System.out.println("helloxian");
         System.out.println("hellochina");
         System.out.println("helloworld");
