@@ -8,6 +8,7 @@ public class Test {
         User user=new User("asan","asan come in yindu");
         System.out.println(user);
         System.out.println("======================================");
+        System.out.println("hello everyone");
     }
 
 }
