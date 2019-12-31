@@ -13,7 +13,7 @@ public class Test2 {
         System.out.println(user);
         System.out.println("niubi");
         System.out.println("nohello");
-        System.out.println("nohello");
+        System.out.println("end...");
     }
 
 }
