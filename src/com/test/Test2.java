@@ -8,6 +8,7 @@ public class Test2 {
         System.out.println("helloworld");
         User user=new User("asan2","asan come in yindu");
         System.out.println(user);
+        System.out.println("niubi");
     }
 
 }
