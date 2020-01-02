@@ -4,7 +4,6 @@ import com.entity.User;
 
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("========================================");
         System.out.println("begin....");
         System.out.println("nohello");
         System.out.println("helloxian");
@@ -17,6 +16,7 @@ public class Test2 {
         System.out.println("end...");
         System.out.println("========================================");
         System.out.println("======================abacdef");
+        System.out.println("======================abac==");
     }
 
 }
